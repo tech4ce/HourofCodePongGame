@@ -40,7 +40,7 @@ h1 {
 }
 
 .sprite {
-    background-image: url('../assets/arena-tennis.jpg');
+    background-image: url('../assets/sprites-tennis.png');
     width: 128px;
     height: 128px;
 }
